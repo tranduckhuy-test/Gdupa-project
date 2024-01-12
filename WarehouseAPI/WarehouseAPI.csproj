@@ -11,13 +11,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\app\app_module\" />
-    <Folder Include="wwwroot\app\app_service\" />
-    <Folder Include="wwwroot\app\app_controller\" />
-    <Folder Include="wwwroot\css\" />
-    <Folder Include="wwwroot\js\" />
-    <Folder Include="wwwroot\html\" />
-  </ItemGroup>
-
 </Project>
